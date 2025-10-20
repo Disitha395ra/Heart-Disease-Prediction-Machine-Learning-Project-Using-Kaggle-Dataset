@@ -70,4 +70,5 @@ Heart-Disease-Prediction/
 └─ requirements.txt      # Required Python libraries
 
 ### Model Accuracy Comparison
-![Accuracy Plot](images/accuracy_plot.png)
+![Accuracy Plot]("./images/accuracy_plot.png")
+
