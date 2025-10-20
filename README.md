@@ -1,6 +1,6 @@
 # Heart Disease Prediction | Machine Learning Project
 
-![Heart Disease](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Heart_anterior_exterior_view.png/320px-Heart_anterior_exterior_view.png)
+![Heart Disease](./images/heart_image.jpg)
 
 ## Overview
 This project predicts the **presence of heart disease** using machine learning algorithms.  
