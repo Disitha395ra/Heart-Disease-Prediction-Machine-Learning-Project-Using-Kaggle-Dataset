@@ -69,3 +69,5 @@ Heart-Disease-Prediction/
 ├─ README.md             # Project overview (this file)
 └─ requirements.txt      # Required Python libraries
 
+### Model Accuracy Comparison
+![Accuracy Plot](images/accuracy_plot.png)
